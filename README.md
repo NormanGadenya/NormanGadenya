@@ -38,6 +38,6 @@ The following repositories are various projects that I have done.
 
 
 [twitter]: https://twitter.com/GadenyaN
-[instagram]: https://instagram.com/gadenyanorman
+[instagram]: https://www.instagram.com/gadenyanorman/
 [linkedin]: https://www.linkedin.com/in/norman-gadenya-ba1a2289/
 
