@@ -37,7 +37,6 @@ The following repositories are various projects that I have done.
   [![Norman Gadenya's GitHub stats](https://github-readme-stats.vercel.app/api?username=NormanGadenya)](https://github.com/anuraghazra/github-readme-stats)
 
 
-[twitter]: https://twitter.com/GadenyaN
 [instagram]: https://www.instagram.com/gadenyanorman/
 [linkedin]: https://www.linkedin.com/in/norman-gadenya-ba1a2289/
 
