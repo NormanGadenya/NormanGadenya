@@ -11,7 +11,6 @@ I am skilled in software development with a Bachelors of Science degree in Compu
 
 ## Connect with me:
 
-[<img align="left" alt="GadenyaN   | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="Norman Gadenya | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="GadenyaNorman | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
@@ -39,4 +38,3 @@ The following repositories are various projects that I have done.
 
 [instagram]: https://www.instagram.com/gadenyanorman/
 [linkedin]: https://www.linkedin.com/in/norman-gadenya-ba1a2289/
-
