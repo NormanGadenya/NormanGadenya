@@ -28,6 +28,7 @@ I am skilled in software development with a Bachelors of Science degree in Compu
 The following repositories are various projects that I have done.
 - [Let's talk Android app](https://github.com/NormanGadenya/Let-s-Talk-App.git )
 - [Let's note Android app](https://github.com/NormanGadenya/lets_note.git)
+- [Android String Translator](https://github.com/NormanGadenya/android-string-translator.git)
 - [File Sharing app](https://github.com/NormanGadenya/file-server.git)
 - etc
 
