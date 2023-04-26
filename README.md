@@ -39,4 +39,4 @@ The following repositories are various projects that I have done.
 
 
 [instagram]: https://www.instagram.com/gadenyanorman/
-[linkedin]: https://www.linkedin.com/in/norman-gadenya-ba1a2289/
+[linkedin]: https://www.linkedin.com/in/norman-gadenya/
